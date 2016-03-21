@@ -1,0 +1,14 @@
+body {
+    background: #B0C4DE;
+    font-family:arial;
+    color: #FFFFFF;
+    padding: 10px 10px;
+}
+h1, h2, p, li {
+    color: #FFFFFF
+  }
+
+a {
+  font-weight: bold;
+  color: green;
+}
